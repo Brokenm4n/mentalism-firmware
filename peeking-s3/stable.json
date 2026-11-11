@@ -1,7 +1,7 @@
 {
   "model": "peeking-esp32-s3",
   "version": "S3H2",
-  "url": "https://archive-internet.com/firmware/peeking-s3/stable.bin",
+  "url": "https://brokenm4n.github.io/mentalism-firmware/peeking-s3/stable.bin",
   "bytes": 1457280,
   "sha256": "7a9c1466c5423df4ad341b1fb99d1f7ff6a1d8f0416e192a29aaf1a035b4f056"
 }
